@@ -23,7 +23,7 @@ I am Vinod Kumar. I love to learn new things, hardworking and is very keen on te
 ### ![Hostel Managment System](https://github.com/iamvk1437k/MiniProject-clg-sem-6).
 ### ![Smart fashion recommander](https://github.com/IBM-EPBL/IBM-Project-48558-1660809304).
 
-## Project Progress: Ongoing Projects
+## Project Progress: Ongoing Projects.
 ### ![Normi-OS](https://github.com/Normi-OS) ![Developer](https://github.com/iamvk1437k).
 <!--
 **iamvk1437k/iamvk1437k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
