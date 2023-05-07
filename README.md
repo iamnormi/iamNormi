@@ -13,16 +13,20 @@ I am Vinod Kumar. I love to learn new things, hardworking and is very keen on te
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 <code><a href="https://java.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code>
 <code><a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
+<code><a href="https://html.spec.whatwg.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>
+<code><a href="https://www.w3.org/TR/CSS/#css" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></a></code>
 <code><a href="https://code.visualstudio.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code> 
 <code><a href="https://www.docker.com/" target ="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a></code>
-<code><a href="https://cloud.google.com" target ="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></a></code>
-<code><a href="https://www.virtualbox.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-ar21.svg"></a></code> 
+<code><a href="https://cloud.google.com" target ="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></a></code> 
 <code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
 <code><a href="https://www.gnu.org/software/bash/" target ="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg"></a></code>
 <code><a href="https://android.com" target ="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></a></code>
 <code><a href="https://ffmpeg.org/" target ="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/FFmpeg_Logo_new.svg"></a></code>
 <code><a href="https://www.qemu.org/" target ="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Qemu_logo.svg"></a></code>
 <code><a href="https://www.linux-kvm.org/page/Main_Page" target ="_blank"><img height="50" src="https://ww1.freelogovectors.net/wp-content/uploads/2019/02/kvm-logo.png"></a></code>
+<code><a href="https://www.virtualbox.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-ar21.svg"></a></code>
+<code><a href="https://www.vmware.com/products/workstation-pro.html" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Vmware_workstation_16_icon.svg"></a></code>
+<code><a href="https://hadoop.apache.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"></a></code>
 <code><a href="https://www.netacad.com/courses/packet-tracer" target ="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/en/d/dc/Cisco_Packet_Tracer_Icon.png"></a></code>
 
 
