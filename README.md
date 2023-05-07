@@ -12,6 +12,7 @@ I am Vinod Kumar. I love to learn new things, hardworking and is very keen on te
 <code><a href="https://en.wikipedia.org/wiki/Dennis_Ritchie" target ="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg"></a></code>
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 <code><a href="https://java.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code>
+<code><a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
 <code><a href="https://code.visualstudio.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code> 
 <code><a href="https://www.docker.com/" target ="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a></code>
 <code><a href="https://cloud.google.com" target ="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></a></code>
@@ -22,6 +23,7 @@ I am Vinod Kumar. I love to learn new things, hardworking and is very keen on te
 <code><a href="https://ffmpeg.org/" target ="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/FFmpeg_Logo_new.svg"></a></code>
 <code><a href="https://www.qemu.org/" target ="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Qemu_logo.svg"></a></code>
 <code><a href="https://www.linux-kvm.org/page/Main_Page" target ="_blank"><img height="50" src="https://ww1.freelogovectors.net/wp-content/uploads/2019/02/kvm-logo.png"></a></code>
+<code><a href="https://www.netacad.com/courses/packet-tracer" target ="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/en/d/dc/Cisco_Packet_Tracer_Icon.png"></a></code>
 
 
 ## Project Progress: Completed Projects So Far.
