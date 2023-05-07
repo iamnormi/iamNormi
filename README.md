@@ -39,6 +39,12 @@ I am Vinod Kumar. I love to learn new things, hardworking and is very keen on te
 
 ## Project Progress: Ongoing Projects.
 ### ![Normi-OS](https://github.com/Normi-OS) ![Developer](https://github.com/iamvk1437k).
+
+## Contact Me 📫
+
+[![Linkedin Badge](https://img.shields.io/twitter/url?color=lightblue&label=iamvk1437k&logo=linkedin&logoColor=lightblue&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fiamvk1437k)](https://www.linkedin.com/in/iamvk1437k/)
+
+
 <!--
 **iamvk1437k/iamvk1437k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
