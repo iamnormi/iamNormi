@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mmertpolat&label=Profile%20views&color=0e75b6&style=flat" alt="iamvk1437k" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamvk1437k&label=Profile%20views&color=0e75b6&style=flat" alt="iamvk1437k" /> </p>
 
 ![Mert's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamvk1437k&show_icons=true)
 
