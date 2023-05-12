@@ -4,7 +4,7 @@
 
 I am Vanma Kumar. I love to learn new things, hardworking and is very keen on technology.
 
-![Vinod kumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamvk1437k&show_icons=true)
+![Vinod kumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamVanmaKumar&show_icons=true)
 
 
 ### Learning | Using 🧠
