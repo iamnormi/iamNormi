@@ -4,7 +4,7 @@
 
 I am Vanma Kumar. I love to learn new things, hardworking and is very keen on technology.
 
-![Vinod kumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamVanmaKumar&show_icons=true)
+![Vinod kumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamNormi&show_icons=true)
 
 
 ### Learning | Using 🧠
@@ -39,11 +39,11 @@ I am Vanma Kumar. I love to learn new things, hardworking and is very keen on te
 ### ![Smart fashion recommander](https://github.com/IBM-EPBL/IBM-Project-48558-1660809304).
 
 ## Project Progress: Ongoing Projects.
-### ![Normi-OS](https://github.com/Normi-OS) ![Developer](https://github.com/iamVanmaKumar).
+### ![Normi-OS](https://github.com/Normi-OS) ![Developer](https://github.com/iamNormi).
 
 ## Contact Me 📫
 
-[![Linkedin Badge](https://img.shields.io/twitter/url?color=lightblue&label=iamvanmakumar&logo=linkedin&logoColor=lightblue&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fiamvanmakumar)](https://www.linkedin.com/in/iamvanmakumar/)
+[![Linkedin Badge](https://img.shields.io/twitter/url?color=lightblue&label=iamNormi&logo=linkedin&logoColor=lightblue&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2FiamNormi)](https://www.linkedin.com/in/iamNormi/)
 
 
 <!--
