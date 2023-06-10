@@ -4,7 +4,7 @@
 
 I am Vinod Kumar. I love to learn new things, hardworking and is very keen on technology.
 
-![Vinod kumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamNormi&show_icons=true)
+[comment]: <> "![Vinod kumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamNormi&show_icons=true)"
 
 
 ### Learning | Using 🧠
