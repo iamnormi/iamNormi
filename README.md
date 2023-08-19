@@ -47,6 +47,17 @@ I am Vinod Kumar. I love to learn new things, hardworking and is very keen on te
 
 
 <!--
+## Dev = 1'43
+These codes was maintained by [**iamNormi**](https://github.com/iamNormi).
+
+[![iamNormi](https://github.com/iamNormi.png?size=100)](https://github.com/iamNormi) |
+--- |
+[iamNormi](https://github.com/iamNormi) |
+
+## License
+
+[GNU GENERAL PUBLIC LICENSE](./LICENSE)
+
 **iamvk1437k/iamvk1437k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
