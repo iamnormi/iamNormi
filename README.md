@@ -6,7 +6,6 @@ I am Vinod Kumar. I love to learn new things, hardworking and is very keen on te
 
 [comment]: <> "![Vinod kumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamNormi&show_icons=true)"
 
-
 ### Learning | Using 🧠
 <code><a href="https://isocpp.org/" target ="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></a></code>
 <code><a href="https://en.wikipedia.org/wiki/Dennis_Ritchie" target ="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg"></a></code>
