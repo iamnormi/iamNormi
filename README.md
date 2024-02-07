@@ -36,7 +36,7 @@ I am Vinod Kumar. I love to learn new things, hardworking and is very keen on te
 
 ## Project Progress: Completed Projects So Far.
 ### [Hostel Managment System](https://github.com/iamNormi/MiniProject-clg-sem-6).
-### [Smart fashion recommander](https://github.com/IBM-EPBL/IBM-Project-48558-1660809304).
+### [Smart fashion recommander](https://github.com/iamNormi/IBM-SPR-Project-Sem-7).
 ### [Normi-OS](https://github.com/Normi-OS) [Developer](https://github.com/iamNormi).
 
 <!--
