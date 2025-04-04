@@ -7,6 +7,7 @@ I am Vinod Kumar. I love to learn new things, hardworking and is very keen on te
 [comment]: <> "![Vinod kumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamNormi&show_icons=true)"
 
 ### Learning | Using 🧠
+<code><a href="https://archlinux.org/" target ="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-ar21.svg"></a></code>
 <code><a href="https://isocpp.org/" target ="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></a></code>
 <code><a href="https://en.wikipedia.org/wiki/Dennis_Ritchie" target ="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg"></a></code>
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
@@ -31,6 +32,7 @@ I am Vinod Kumar. I love to learn new things, hardworking and is very keen on te
 <code><a href="https://www.vmware.com/products/workstation-pro.html" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Vmware_workstation_16_icon.svg"></a></code>
 <code><a href="https://hadoop.apache.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"></a></code>
 <code><a href="https://www.netacad.com/courses/packet-tracer" target ="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/en/d/dc/Cisco_Packet_Tracer_Icon.png"></a></code>
+<code><a href="https://www.microsoft.com/en-us/software-download/windows11" target ="_blank"><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/windows11/windows11-original-wordmark.svg"></a></code>
 
 
 ## Project Progress: Completed Projects So Far.
