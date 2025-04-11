@@ -2,7 +2,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamvk1437k&label=Profile%20views&color=0e75b6&style=flat" alt="iamvk1437k" /> </p>
 
-I am Vinod Kumar. I love to learn new things, hardworking and is very keen on technology.
+I am Vinod Kumar. I love to learn new things, hardworking and is very keen on technology. Named Normi as I’m the dev of [Normi-OS](https://github.com/Normi-OS) (Linux for normal people).
+
 
 [comment]: <> "![Vinod kumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamNormi&show_icons=true)"
 
